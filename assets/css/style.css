@@ -1,0 +1,30 @@
+.fruits{
+  border: 2px solid red;
+  text-align: center;
+  padding: 15px;
+  margin: 15px;
+  color: blueviolet;
+}
+
+.car{
+  border: 2px solid #00ff55;
+  text-align: center;
+  padding: 15px;
+  margin: 15px;
+  color: #2b6be2;
+}
+
+.Fruits{
+
+   border: 2px solid #00ff55;
+  text-align: center;
+  padding: 15px;
+  margin: 15px;
+  color: #2b6be2;
+
+}
+.schools{
+  color: #00ff55;
+  font-family: arial, sans-serif;
+
+}
